@@ -1,0 +1,38 @@
+.btn-primary-1 {
+    padding: 5px 15px;
+    line-height: 1;
+    background-color: #1d426e;
+    color: #fff;
+    border-radius: 5rem;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.responsive-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.responsive-img-2 {
+    padding: 20px;
+    margin: auto;
+    width: 50%;
+    height: 100%;
+    object-fit: cover;
+}
+.btn-outline {
+    color: #25426B;
+    font: 14px;
+    background: #ffff;
+    padding: 5px 20px;
+    border: 1px solid #000;
+    text-decoration: none;
+    border-radius: 5rem;
+    cursor: pointer;
+}
+
+.btn-outline:hover {
+    color: #fff;
+    background: #25426b;
+}
