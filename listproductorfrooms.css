@@ -1,7 +1,7 @@
 .btn-primary-1 {
     padding: 5px 15px;
     line-height: 1;
-    background-color: #1d426e;
+    background-color: #e616d4;
     color: #fff;
     border-radius: 5rem;
     text-decoration: none;
@@ -22,7 +22,7 @@
     object-fit: cover;
 }
 .btn-outline {
-    color: #25426B;
+    color: #c41b78;
     font: 14px;
     background: #ffff;
     padding: 5px 20px;
@@ -34,5 +34,5 @@
 
 .btn-outline:hover {
     color: #fff;
-    background: #25426b;
+    background: #d61364;
 }
