@@ -1,0 +1,13 @@
+body {
+    background-color:chocolate;
+    font-family: 'Times New Roman', Times, serif;
+    background-image: -webkit-repeating-linear-gradient();
+    width: 1000px;
+    max-width: 100%;
+    margin: 50px auto 0;
+    border-radius: 10px;
+}
+
+img {
+    object-fit: cover;
+}
